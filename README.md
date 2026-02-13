@@ -1,6 +1,13 @@
-# MathOCR
+# PRINTEX (Print + TeX)
+<img width="2031" height="1308" alt="printex" src="https://github.com/user-attachments/assets/5fa44297-9037-41f7-8b3b-73ce5d7504b0" />
 
+
+## PRINTEXについて
 数学問題の画像をOCRでLaTeXに変換し、編集・解説生成・PDF出力まで行うWebアプリケーションです。
+
+- 動作動画：https://github.com/user-attachments/assets/b55f324f-f043-4c09-b92f-f39484f8aa17
+- チャット補足機能で類題の問題・解答作成：https://github.com/user-attachments/assets/9857e037-7ae6-48cf-944d-3389d4f15be0
+
 
 ## 主な機能
 
