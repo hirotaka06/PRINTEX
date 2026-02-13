@@ -1,0 +1,1 @@
+export { TrashCard } from './TrashCard';
